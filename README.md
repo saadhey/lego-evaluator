@@ -3,7 +3,7 @@
 A custom WordPress plugin that allows users to evaluate their LEGO sets using the Bricklink API and seamlessly add the evaluated items to their WooCommerce cart with a custom price. Version 1.1.0 introduces a granular valuation model including seals-based checks and weight-based payouts for incomplete sets.
 
 ## Author & Version
-- **Author**: Muhammad Usama
+- **Author**: Flywebsolutions
 - **Version**: 1.1.0
 
 ## Features
